@@ -1,16 +1,20 @@
-## Hi there 👋
+## Sobre mim
 
-<!--
-**VinicyusMarins/VinicyusMarins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    Meu nome é Vinicyus Marins, graduando em <strong>Sistemas para Internet</strong> no Instituto Federal do Sertão de Pernambuco <strong>(IFSertão)</strong> - Campus Salgueiro
+</p>
+<p>
+    Atualmente trabalhando fora da area de programação
+</p>
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge" alt="Badge 1" />
+</div>
+
+## Formações
+
+<div align="center">
+  <img src="https://img.shields.io/badge/IFSertão-cursando-yellow?style=for-the-badge" alt="Badge 1" />
+</div>
